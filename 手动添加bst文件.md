@@ -1,4 +1,4 @@
-bibtex4word手动加bst样式文件
+# bibtex4word手动加bst样式文件
 
 有时攒到的bst样式文件在那几个映像站上没有，比如Wiley的MSP.bst，自动安装就搜索不到它，这时就需要手动安装。
 
